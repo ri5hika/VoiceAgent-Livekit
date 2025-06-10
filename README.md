@@ -1,4 +1,4 @@
-# Voice AI Assistant using LiveKit, Deepgram, GROQ, and Cartesia
+# AI Voice Agent using LiveKit, Deepgram, GROQ, and Cartesia
 This project implements a real-time voice-based AI assistant using LiveKit's Agent framework. It integrates automatic speech recognition (ASR), natural language processing (LLM), speech-to-text (STT) and text-to-speech (TTS) using APIs from Deepgram, GROQ, and Cartesia, along with multilingual voice activity detection and noise cancellation.
 
 # Video Demo
