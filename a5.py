@@ -1,4 +1,3 @@
-print("=== BASIC WORKING AGENT - GUARANTEED TO WORK! ===")
 import asyncio
 import logging
 import os
