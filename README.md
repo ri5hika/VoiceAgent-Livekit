@@ -1,14 +1,19 @@
-# VoiceAgent-Livekit
-This is my submission for PropAL AI Backend Intern task. proPAL AI is an indigenous Voice AI platform revolutionizing how small and medium businesses (SMBs) in India interact with their customers. I have built an AI voice agent that integrates STT, LLM, TTS models. 
+# Voice AI Assistant using LiveKit, Deepgram, GROQ, and Cartesia
+This project implements a real-time voice-based AI assistant using LiveKit's Agent framework. It integrates automatic speech recognition (ASR), natural language processing (LLM), speech-to-text (STT) and text-to-speech (TTS) using APIs from Deepgram, GROQ, and Cartesia, along with multilingual voice activity detection and noise cancellation.
 
-# Project Overview
-This AI voice agent is capable of conducting natural voice-based conversations using a real-time pipeline:
-1. Speech-to-Text (STT) - Using Deepgram
-2. Text Generation (LLM) - Using
-3. Text-to-Speech (TTS)
+---
 
-It is designed to:
+# Features
+1. Speech-to-Text: Real-time transcription using Deepgram (nova-3 model)
+2. Natural Language Understanding: LLM-based reasoning and response generation using GROQ (llama3-8b-8192)
+3. Text-to-Speech: Lifelike audio responses with Cartesia (sonic-2 model and voice ID)
+4. Noise Cancellation: Real-time BVC noise suppression
+5. Multilingual Turn Detection: Accurate detection of speaker turns
+6. LiveKit Agent Framework: Audio room management and agent lifecycle
 
-Handle interruptions during conversation
+# Setup
+1. Clone the Repository:
+git clone <your-repo-url>
+cd <your-repo-directory>
 
-Log call session metrics (latency, delays, etc.) into an Excel file
+2. 
