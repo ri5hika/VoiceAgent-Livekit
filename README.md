@@ -3,7 +3,6 @@ This project implements a real-time voice-based AI assistant using LiveKit's Age
 
 # Video Demo
 Check out the various video demos for this AI voice agent here: 
-
 https://drive.google.com/drive/folders/1IUN5ksWcgtq1qUhVH2MT9sqCmm_vmb1r?usp=drive_link
 
 # Features
