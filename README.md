@@ -56,8 +56,8 @@ During each call session, the following key latency metrics are logged and saved
 
 ==> Each session's metrics are saved in .xlxs file, to view them open 'Metrics' directory.
 ==> In each Excel workbook there are 4 different worksheets, each indicating different summary of metrics.
-==> These wroksheets are:
-    1. Detailed Metrics
-    2. Summary Statistics
-    3. Event Logs
+==> These wroksheets are:<br/>
+    1. Detailed Metrics<br/>
+    2. Summary Statistics<br/>
+    3. Event Logs<br/>
     4. Session Info
