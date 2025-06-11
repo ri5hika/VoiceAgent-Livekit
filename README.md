@@ -55,3 +55,9 @@ During each call session, the following key latency metrics are logged and saved
    End-to-end time from when the user finishes speaking to when the spoken response is fully delivered.
 
 ==> Each session's metrics are saved in .xlxs file, to view them open 'Metrics' directory.
+==> In each Excel workbook there are 4 different worksheets, each indicating different summary of metrics.
+==> These wroksheets are:
+    1. Detailed Metrics
+    2. Summary Statistics
+    3. Event Logs
+    4. Session Info
