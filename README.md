@@ -18,12 +18,12 @@ https://drive.google.com/drive/folders/1IUN5ksWcgtq1qUhVH2MT9sqCmm_vmb1r?usp=dri
    git clone <your-repo-url>
    cd <your-repo-directory>
 
-2. Create a .env File (get the API keys for the following from their officail websites):
+2. Create a .env File (get the API keys for the following from their officail websites):<br/>
    LIVEKIT_API_KEY=your_livekit_api_key<br/>
-   LIVEKIT_API_SECRET=your_livekit_api_secret
-   LIVEKIT_URL=your_livekit_url
-   DEEPGRAM_API_KEY=your_deepgram_api_key
-   GROQ_API_KEY=your_groq_api_key
+   LIVEKIT_API_SECRET=your_livekit_api_secret<br/>
+   LIVEKIT_URL=your_livekit_url<br/>
+   DEEPGRAM_API_KEY=your_deepgram_api_key<br/>
+   GROQ_API_KEY=your_groq_api_key<br/>
    CARTESIA_API_KEY=your_cartesia_api_key
 
 4. Install Dependencies:
